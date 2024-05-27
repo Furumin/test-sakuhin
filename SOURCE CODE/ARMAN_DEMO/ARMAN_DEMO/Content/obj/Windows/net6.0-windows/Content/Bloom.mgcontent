@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/Bloom.fx</SourceFile>
+  <SourceTime>2024-04-08T13:11:44+02:00</SourceTime>
+  <DestFile>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/bin/Windows/Content/Bloom.xnb</DestFile>
+  <DestTime>2024-04-11T09:04:20+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/appBloom.fx</File>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/arial.spritefont</File>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/Bloom.fx</File>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/Debug.spritefont</File>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/shoot.wav</File>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/spacebgm.mp3</File>
+    <File>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/Study.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/spacebgm.mp3</SourceFile>
+  <SourceTime>2024-03-04T15:46:16+01:00</SourceTime>
+  <DestFile>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/bin/Windows/Content/spacebgm.xnb</DestFile>
+  <DestTime>2024-04-11T09:04:26+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/PROGRAMMER SHUUSHOKU/GENERAL/Arman Dadkani_提出作品(2024-04-10)/ARMAN_DEMO_SOURCE/ARMAN_DEMO2/ARMAN_DEMO/Content/bin/Windows/Content/spacebgm.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|e:\\programmer shuushoku\\general\\arman dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\arman_demo_source\\arman_demo2\\arman_demo\\src\\mousehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\mousehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\controlpolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\controlpolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|e:\\programmer shuushoku\\general\\arman dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\arman_demo_source\\arman_demo2\\arman_demo\\src\\mousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\mousesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|e:\\programmer shuushoku\\general\\arman dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\arman_demo_source\\arman_demo2\\arman_demo\\src\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\particlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\particlehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\rendersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\rendersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\projectilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\projectilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\collisionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\collisionresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|e:\\programmer shuushoku\\general\\arman dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\arman_demo_source\\arman_demo2\\arman_demo\\src\\vectorgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\vectorgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|e:\\programmer shuushoku\\general\\arman dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\arman_demo_source\\arman_demo2\\arman_demo\\src\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\enemypolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\enemypolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\starbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\starbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\content\\appbloom.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\content\\appbloom.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\content\\bloom.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\content\\bloom.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\stagepolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\stagepolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\src\\geometry3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\src\\geometry3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\arman_demo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\arman_demo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D639CCF-108D-4719-9C3E-336750F80F41}|ARMAN_DEMO\\ARMAN_DEMO.csproj|solutionrelative:arman_demo\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\vectorgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\arman_demo\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Game1.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\Game1.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Game1.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\Game1.cs",
+              "ViewState": "AQIAAAkCAAAAAAAAAAAmwLcBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:31:22.211Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Polygon.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\Polygon.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Polygon.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\Polygon.cs",
+              "ViewState": "AQIAADEBAAAAAAAAAAAAwFUBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:03:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MouseSprite.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\MouseSprite.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\MouseSprite.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\MouseSprite.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\MouseSprite.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:35:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MouseHandler.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\MouseHandler.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\MouseHandler.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\MouseHandler.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\MouseHandler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:23:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlPolygon.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\ControlPolygon.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\ControlPolygon.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\ControlPolygon.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\ControlPolygon.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwHMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T00:37:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Projectile.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\Projectile.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Projectile.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\Projectile.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:44:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\CollisionHandler.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\CollisionHandler.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\CollisionHandler.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAIwBkBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:38:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RenderSystem.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\RenderSystem.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\RenderSystem.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\RenderSystem.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\RenderSystem.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAcwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:15:13.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VectorGraphics.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\VectorGraphics.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\VectorGraphics.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\VectorGraphics.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\VectorGraphics.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwFcAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:42:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticleHandler.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\ParticleHandler.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\ParticleHandler.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\ParticleHandler.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\ParticleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:55:02.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollisionResolver.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\CollisionResolver.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\CollisionResolver.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\CollisionResolver.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\CollisionResolver.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA6wCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:02:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectileHandler.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\ProjectileHandler.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\ProjectileHandler.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\ProjectileHandler.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\ProjectileHandler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:56:26.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StarBackground.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\StarBackground.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\StarBackground.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\StarBackground.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\StarBackground.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wCsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:26:08.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bloom.fx",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Content\\Bloom.fx",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\Content\\Bloom.fx",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Content\\Bloom.fx",
+              "RelativeToolTip": "ARMAN_DEMO\\Content\\Bloom.fx",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T17:56:58.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Geometry3D.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Geometry3D.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\Geometry3D.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Geometry3D.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\Geometry3D.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAjwOYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:25:26.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyPolygon.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\EnemyPolygon.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\EnemyPolygon.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\EnemyPolygon.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\EnemyPolygon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:47:00.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StagePolygon.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\StagePolygon.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\StagePolygon.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\StagePolygon.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\StagePolygon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:56:57.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Camera.cs",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\src\\Camera.cs",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\src\\Camera.cs",
+              "RelativeToolTip": "ARMAN_DEMO\\src\\Camera.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwEUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:03:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appBloom.fx",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Content\\appBloom.fx",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\Content\\appBloom.fx",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Content\\appBloom.fx",
+              "RelativeToolTip": "ARMAN_DEMO\\Content\\appBloom.fx",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-27T15:06:45.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VectorGraphics.cs",
+              "DocumentMoniker": "D:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\VectorGraphics.cs",
+              "ToolTip": "D:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\VectorGraphics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:01:27.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ARMAN_DEMO",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\ARMAN_DEMO.csproj",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\ARMAN_DEMO.csproj",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\ARMAN_DEMO.csproj",
+              "RelativeToolTip": "ARMAN_DEMO\\ARMAN_DEMO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T12:57:42.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "D:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Game1.cs",
+              "ToolTip": "D:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Game1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T04:48:31.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Content.mgcb",
+              "DocumentMoniker": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Content\\Content.mgcb",
+              "RelativeDocumentMoniker": "ARMAN_DEMO\\Content\\Content.mgcb",
+              "ToolTip": "E:\\PROGRAMMER SHUUSHOKU\\GENERAL\\Arman Dadkani_\u63D0\u51FA\u4F5C\u54C1(2024-04-10)\\ARMAN_DEMO_SOURCE\\ARMAN_DEMO2\\ARMAN_DEMO\\Content\\Content.mgcb",
+              "RelativeToolTip": "ARMAN_DEMO\\Content\\Content.mgcb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJqSURBVDhPvVRNSFRRFP7umxntz82EBdkiJmyt0A9YuBFs16LA3UDWctxI4CJnqa6CAmsVYVRSBEXYpqRaVSQ0ZYvAcmrVjzX1JNSZnjPe23fuuw8mmCat6IPz7vm755537jlXwaF3K9YPpXCEij54aNMaZeVhShuc2vMU9wxgcrvRrRROGI19nocENKapP5t9ixtjn1CCMcYG7GnGrtOtGCF7iBvioovAwJqbLzr\u002BKHnPGhyMQYXLRP8sTl4v4LWyme3EZQY6HLr8GRj4ZjaPtPrQgTTTvhBlxl/0PYVJsptIHaSk6Kvgkx6TFunbTV9rt5kaHJP0M1EwBvZXWM7OZ\u002BgbeIXjG8oYonpebA4\u002BdcNiEx/xlT1icDEyHgvfLgoBCzrZ9RwP8yX4V76gkH2PCapnQqs9cEZ0YhMf8ZU9zgyJJRk2hCKhsMCvDgUbYJHL91CyCEjiE0G7PREafrqxf4H6AQ2KcnvkRi2Rp1y0NoFBoFbwgFxoJ6mPB6Qd5e8IhfOdOQywPt9E3MjjmuJoJBsdrBcqCJZcUWKk5gQbvKp36wbMtGDz4A6cIyvtsyr8roY2CdL21dL/vRROQYnLXRbk0i/oKu2z1tlBahiwhgknX\u002BMEZFhDOx0Jdm2jZwte8\u002BDUOiTvtOEM2Z5Qg2WZ5Se8jL0iyRhVDHo5AY8ocrLqIna/HfvjCmM8N5xnjal6j0P1BNRCU63HIXy\u002BUny\u002BvL98vjSfrzdIx6aXUHkX4MXBJLZR38pM13TzNjPgVn8eg\u002BMFzEmf4WURX\u002BeXcbsriTzFFma7RUpAUnWozF/MsX5ZZjY8/hlzAPADYfn7Eyvrq5UAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-05T14:45:55.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

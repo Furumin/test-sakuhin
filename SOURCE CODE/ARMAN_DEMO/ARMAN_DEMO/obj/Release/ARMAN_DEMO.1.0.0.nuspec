@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ARMAN_DEMO</id>
+    <version>1.0.0</version>
+    <authors>ARMAN_DEMO</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.WindowsDX" version="3.8.1.303" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/demoicon.ico" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/appBloom.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/bgm.wma" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/bgm.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/Bloom.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/Debug.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/shoot.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/spacebgm.wma" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/spacebgm.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/Study.xnb" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Content/bin/Windows/Content/test.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品\UPDATED RELEASE\x86\Release\net6.0-windows\ARMAN_DEMO.runtimeconfig.json" target="lib\net6.0-windows7.0\ARMAN_DEMO.runtimeconfig.json" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品\UPDATED RELEASE\x86\Release\net6.0-windows\ARMAN_DEMO.dll" target="lib\net6.0-windows7.0\ARMAN_DEMO.dll" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\demoicon.ico" target="content\demoicon.ico" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\demoicon.ico" target="contentFiles\any\net6.0-windows7.0\demoicon.ico" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\appBloom.xnb" target="content\Content\bin\Windows\Content\appBloom.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\appBloom.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\appBloom.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\bgm.wma" target="content\Content\bin\Windows\Content\bgm.wma" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\bgm.wma" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\bgm.wma" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\bgm.xnb" target="content\Content\bin\Windows\Content\bgm.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\bgm.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\bgm.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\Bloom.xnb" target="content\Content\bin\Windows\Content\Bloom.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\Bloom.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\Bloom.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\Debug.xnb" target="content\Content\bin\Windows\Content\Debug.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\Debug.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\Debug.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\shoot.xnb" target="content\Content\bin\Windows\Content\shoot.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\shoot.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\shoot.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\spacebgm.wma" target="content\Content\bin\Windows\Content\spacebgm.wma" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\spacebgm.wma" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\spacebgm.wma" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\spacebgm.xnb" target="content\Content\bin\Windows\Content\spacebgm.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\spacebgm.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\spacebgm.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\Study.xnb" target="content\Content\bin\Windows\Content\Study.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\Study.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\Study.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\test.xnb" target="content\Content\bin\Windows\Content\test.xnb" />
+    <file src="E:\PROGRAMMER SHUUSHOKU\GENERAL\Arman Dadkani_提出作品(2024-04-07)\ARMAN_DEMO_SOURCE\ARMAN_DEMO2\ARMAN_DEMO\Content\bin\Windows\Content\test.xnb" target="contentFiles\any\net6.0-windows7.0\Content\bin\Windows\Content\test.xnb" />
+  </files>
+</package>
